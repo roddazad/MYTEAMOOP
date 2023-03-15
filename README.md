@@ -34,6 +34,6 @@ THEN I exit the application, and the HTML is generated
 
 ## Link to the repository: https://github.com/roddazad/MYTEAMOOP
 
-## Link to the first Demo Video: https://watch.screencastify.com/v/DxCqnnpZghcxSFSqLYUv
+## Link to the Demo Video: https://watch.screencastify.com/v/lKZC5OhdlUQTOvAxqZhs
 
-## Link to the second Demo Video:
+
