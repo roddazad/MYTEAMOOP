@@ -1,6 +1,6 @@
 # 10 Object-Oriented Programming: MYTEAMOOP
 
-## Your Task
+
 
 ## User Story
 

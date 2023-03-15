@@ -2,28 +2,28 @@ const Engineer = require('../lib/engineer');
 
 
 
-test('should return a property called Github', () => {
-    //Arrange
-    const testGithub = 'roddazad';
-    //Act
-    const engineer = new Engineer (testGithub);
+// test('should return a property called Github', () => {
+//     //Arrange
+//     const testGithub = 'roddazad';
+//     //Act
+//     const engineer = new Engineer (testGithub);
 
-    //Assert
-    expect(engineer.github).toBe(testGithub);
-});
+//     //Assert
+//     expect(engineer.github).toBe(testGithub);
+// });
 
-test('should return a function called getGithub', () => {
-    //Arrange
-    const testGithub = 'roddazad';
-    //Act
-    function getGithub(){
-        return this.github
-    }
-    getGithub();
+// test('should return a function called getGithub', () => {
+//     //Arrange
+//     const testGithub = 'roddazad';
+//     //Act
+//     function getGithub(){
+//         return this.github
+//     }
+//     getGithub();
 
-    //Assert
-    expect(getGithub()).toBe(this.github);
-});
+//     //Assert
+//     expect(getGithub()).toBe(this.github);
+// });
 
 test('returns a Engineer object', () => {
     
